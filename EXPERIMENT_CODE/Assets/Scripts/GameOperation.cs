@@ -28,6 +28,7 @@ public class GameOperation : MonoBehaviour
     bool studentDead;
     public int TotalRounds;
     int currentRound = 0;
+    public StudentVisualScript studentVisual;
 
     
     // Start is called before the first frame update
@@ -201,7 +202,7 @@ public class GameOperation : MonoBehaviour
         if (falseRefuseCount == falseRefuseLimit)
         {
             //final false refuse action
-            Subtext(instructorFalseRefuseLines[falseRefuseCount + 1]);
+            Subtext(instructorFalseRefuseLines[falseRefuseCount]);
             //trigger discontinued experiment ending.
             Debug.Log("discontinued experiment ending");
             StartCoroutine(GoToEndingOne());
@@ -209,7 +210,7 @@ public class GameOperation : MonoBehaviour
         else
         {
             //other false refuse action
-            Subtext(instructorFalseRefuseLines[falseRefuseCount + 1]);
+            Subtext(instructorFalseRefuseLines[falseRefuseCount]);
             falseRefuseCount++;
         }
     }
@@ -227,7 +228,10 @@ public class GameOperation : MonoBehaviour
         if (shockVal > studentDeathShock)
         {
             studentDead = true;
+            studentVisual.KillStudnet();
         }
+
+        studentVisual.ShockStudent();
     }
 
     public void Subtext(string subtxt)
