@@ -9,6 +9,16 @@
     "/Applications/Unity/Hub/Editor/6000.1.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "displayName": "2D Sprite",
+      "resolvedPath": "/Users/kaiserlee/Desktop/EXPERIMENT/EXPERIMENT_CODE/Library/PackageCache/com.unity.2d.sprite@8e227b7a8e02",
+      "fingerprint": "8e227b7a8e02901a84d9678f982e6ae0efa3f5bb",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
     "com.unity.ai.navigation@2.0.7": {
       "name": "com.unity.ai.navigation",
       "displayName": "AI Navigation",
