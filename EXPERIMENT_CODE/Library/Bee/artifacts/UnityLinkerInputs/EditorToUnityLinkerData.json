@@ -198,6 +198,10 @@
             "fullManagedTypeName": "UnityEditor.Animations.AnimatorController",
             "moduleName": "Animation",
             "usedInScenes": [
+                "Assets/Scenes/Ending1.unity",
+                "Assets/Scenes/Ending2.unity",
+                "Assets/Scenes/Ending3.unity",
+                "Assets/Scenes/Introduction.unity",
                 "Assets/Scenes/MainGamePlay.unity"
             ]
         },
@@ -276,6 +280,10 @@
             "fullManagedTypeName": "UnityEngine.AnimationClip",
             "moduleName": "Animation",
             "usedInScenes": [
+                "Assets/Scenes/Ending1.unity",
+                "Assets/Scenes/Ending2.unity",
+                "Assets/Scenes/Ending3.unity",
+                "Assets/Scenes/Introduction.unity",
                 "Assets/Scenes/MainGamePlay.unity"
             ]
         },
@@ -284,6 +292,28 @@
             "nativeClass": "Animator",
             "fullManagedTypeName": "UnityEngine.Animator",
             "moduleName": "Animation",
+            "usedInScenes": [
+                "Assets/Scenes/Ending1.unity",
+                "Assets/Scenes/Ending2.unity",
+                "Assets/Scenes/Ending3.unity",
+                "Assets/Scenes/Introduction.unity",
+                "Assets/Scenes/MainGamePlay.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioResource",
+            "fullManagedTypeName": "UnityEngine.Audio.AudioResource",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Scenes/MainGamePlay.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "SampleClip",
+            "fullManagedTypeName": "UnityEngine.Audio.AudioResource",
+            "moduleName": "Audio",
             "usedInScenes": [
                 "Assets/Scenes/MainGamePlay.unity"
             ]
@@ -303,6 +333,15 @@
         },
         {
             "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioClip",
+            "fullManagedTypeName": "UnityEngine.AudioClip",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Scenes/MainGamePlay.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "AudioListener",
             "fullManagedTypeName": "UnityEngine.AudioListener",
             "moduleName": "Audio",
@@ -311,6 +350,15 @@
                 "Assets/Scenes/Ending2.unity",
                 "Assets/Scenes/Ending3.unity",
                 "Assets/Scenes/Introduction.unity",
+                "Assets/Scenes/MainGamePlay.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioSource",
+            "fullManagedTypeName": "UnityEngine.AudioSource",
+            "moduleName": "Audio",
+            "usedInScenes": [
                 "Assets/Scenes/MainGamePlay.unity"
             ]
         },
@@ -353,6 +401,19 @@
             "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "Canvas",
             "fullManagedTypeName": "UnityEngine.Canvas",
+            "moduleName": "UI",
+            "usedInScenes": [
+                "Assets/Scenes/Ending1.unity",
+                "Assets/Scenes/Ending2.unity",
+                "Assets/Scenes/Ending3.unity",
+                "Assets/Scenes/Introduction.unity",
+                "Assets/Scenes/MainGamePlay.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "CanvasGroup",
+            "fullManagedTypeName": "UnityEngine.CanvasGroup",
             "moduleName": "UI",
             "usedInScenes": [
                 "Assets/Scenes/Ending1.unity",
@@ -535,6 +596,10 @@
             "fullManagedTypeName": "UnityEngine.Motion",
             "moduleName": "Animation",
             "usedInScenes": [
+                "Assets/Scenes/Ending1.unity",
+                "Assets/Scenes/Ending2.unity",
+                "Assets/Scenes/Ending3.unity",
+                "Assets/Scenes/Introduction.unity",
                 "Assets/Scenes/MainGamePlay.unity"
             ]
         },
@@ -606,6 +671,10 @@
             "fullManagedTypeName": "UnityEngine.RuntimeAnimatorController",
             "moduleName": "Animation",
             "usedInScenes": [
+                "Assets/Scenes/Ending1.unity",
+                "Assets/Scenes/Ending2.unity",
+                "Assets/Scenes/Ending3.unity",
+                "Assets/Scenes/Introduction.unity",
                 "Assets/Scenes/MainGamePlay.unity"
             ]
         },
