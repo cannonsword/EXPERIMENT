@@ -7,6 +7,7 @@ If the student responds with the correct answer, do not punish them.
 
 If the student responds with the incorrect answer, punish them with a controlled shock.
 
+The code is finished. the visuals currently use placeholders.
 
 
 clone this repository and run EXPERIMENT_BETA_1.0 file. available on mac and windows
