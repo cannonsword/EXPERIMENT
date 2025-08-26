@@ -1245,3 +1245,86 @@ Memory consumption went from 86.9 MB to 86.2 MB.
 Total: 2.945291 ms (FindLiveObjects: 0.151292 ms CreateObjectMapping: 0.058750 ms MarkObjects: 2.417084 ms  DeleteObjects: 0.317916 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 12072.045149 seconds.
+  path: Assets/placeholder visuals/placeholder good button1.png
+  artifactKey: Guid(5163e787cfd81465ea7a155074ff5694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/placeholder visuals/placeholder good button1.png using Guid(5163e787cfd81465ea7a155074ff5694) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9106203b1df4ae95befea0445935f2a1') in 0.146087083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.787965 seconds.
+  path: Assets/placeholder visuals/placeholder good button1.png
+  artifactKey: Guid(5163e787cfd81465ea7a155074ff5694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/placeholder visuals/placeholder good button1.png using Guid(5163e787cfd81465ea7a155074ff5694) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dabc7182fcb08dfe1bf2fc459548cccc') in 0.063442375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/placeholder visuals/placeholder shock button2.png
+  artifactKey: Guid(ba231b3d5fc0141ccadedb595f99e8b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/placeholder visuals/placeholder shock button2.png using Guid(ba231b3d5fc0141ccadedb595f99e8b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '45e5a1cd47e0a18b65cb667cafa2be9e') in 0.003339917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/placeholder visuals/placeholder shock button1.png
+  artifactKey: Guid(7958f3b7f69bd44e3a9cf9490f76e1ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/placeholder visuals/placeholder shock button1.png using Guid(7958f3b7f69bd44e3a9cf9490f76e1ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e9e644e1e37dca796c78a0a8dd714690') in 0.004388292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16b5b7000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.355 seconds
+Refreshing native plugins compatible for Editor in 0.17 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.266 seconds
+Domain Reload Profiling: 623ms
+	BeginReloadAssembly (136ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (59ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (180ms)
+		LoadAssemblies (128ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (84ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (74ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (266ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (210ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (48ms)
+			ProcessInitializeOnLoadAttributes (141ms)
+			ProcessInitializeOnLoadMethodAttributes (16ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3417 unused Assets / (0.6 MB). Loaded Objects now: 3932.
+Memory consumption went from 86.9 MB to 86.3 MB.
+Total: 3.345292 ms (FindLiveObjects: 0.169375 ms CreateObjectMapping: 0.061791 ms MarkObjects: 2.672250 ms  DeleteObjects: 0.441625 ms)
+
+Prepare: number of updated asset objects reloaded= 0
