@@ -1285,3 +1285,134 @@ Memory consumption went from 86.7 MB to 86.2 MB.
 Total: 3.033250 ms (FindLiveObjects: 0.146458 ms CreateObjectMapping: 0.058083 ms MarkObjects: 2.474542 ms  DeleteObjects: 0.352541 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 8296.471073 seconds.
+  path: Assets/Scripts/StudentTransitionToDead.anim
+  artifactKey: Guid(0e6a715f939714e4aa4612aa57e01689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/StudentTransitionToDead.anim using Guid(0e6a715f939714e4aa4612aa57e01689) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '72912f6b0de55c3b6131998ae234770c') in 0.029451125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.131986 seconds.
+  path: Assets/TextMesh Pro
+  artifactKey: Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro using Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '441aa3e92cda27c68af8a1706ee847ab') in 0.000377958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 570.568353 seconds.
+  path: Assets/placeholder visuals/placeholder good button.png
+  artifactKey: Guid(b7bad85fa36024c768e573977190f58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/placeholder visuals/placeholder good button.png using Guid(b7bad85fa36024c768e573977190f58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dfbcbcd3f190ef5ef75c37e20c311ebe') in 0.063113041 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/placeholder visuals/placeholder shock button2.png
+  artifactKey: Guid(ba231b3d5fc0141ccadedb595f99e8b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/placeholder visuals/placeholder shock button2.png using Guid(ba231b3d5fc0141ccadedb595f99e8b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '03baa8312e03fd34474be0a21cf3728c') in 0.008715417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001368 seconds.
+  path: Assets/placeholder visuals/placeholder good button2.png
+  artifactKey: Guid(792a6b1407d9747d8b781a7c9d12003e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/placeholder visuals/placeholder good button2.png using Guid(792a6b1407d9747d8b781a7c9d12003e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f27faac6ff2b4f8daebd8d6d1f99f33c') in 0.011842041 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/placeholder visuals/placeholder shock button1.png
+  artifactKey: Guid(7958f3b7f69bd44e3a9cf9490f76e1ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/placeholder visuals/placeholder shock button1.png using Guid(7958f3b7f69bd44e3a9cf9490f76e1ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6340ea1666a6f0f541405726912b8709') in 0.006164209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/placeholder visuals/placeholder shock button.png
+  artifactKey: Guid(a30f152a5fbce40baaa7565a51171cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/placeholder visuals/placeholder shock button.png using Guid(a30f152a5fbce40baaa7565a51171cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7631c281007fc3e2e403043ccc3547ad') in 0.006035041 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.837332 seconds.
+  path: Assets/placeholder visuals/placeholder good button.png
+  artifactKey: Guid(b7bad85fa36024c768e573977190f58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/placeholder visuals/placeholder good button.png using Guid(b7bad85fa36024c768e573977190f58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dffa63053814ece0fa3bbcddf0b005fa') in 0.0648925 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/placeholder visuals/placeholder good button2.png
+  artifactKey: Guid(792a6b1407d9747d8b781a7c9d12003e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/placeholder visuals/placeholder good button2.png using Guid(792a6b1407d9747d8b781a7c9d12003e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f8f3d9577570cd6bc9a0d16b28af05c8') in 0.0034535 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/placeholder visuals/placeholder shock button.png
+  artifactKey: Guid(a30f152a5fbce40baaa7565a51171cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/placeholder visuals/placeholder shock button.png using Guid(a30f152a5fbce40baaa7565a51171cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dfc1be321fec0cf97ce943706457541c') in 0.004256 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16b013000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.358 seconds
+Refreshing native plugins compatible for Editor in 0.20 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.265 seconds
+Domain Reload Profiling: 625ms
+	BeginReloadAssembly (134ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (57ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (10ms)
+	LoadAllAssembliesAndSetupDomain (186ms)
+		LoadAssemblies (130ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (87ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (76ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (265ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (209ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (52ms)
+			ProcessInitializeOnLoadAttributes (141ms)
+			ProcessInitializeOnLoadMethodAttributes (12ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3417 unused Assets / (0.7 MB). Loaded Objects now: 3933.
+Memory consumption went from 86.7 MB to 86.1 MB.
+Total: 3.399667 ms (FindLiveObjects: 0.172791 ms CreateObjectMapping: 0.060000 ms MarkObjects: 2.740500 ms  DeleteObjects: 0.426042 ms)
+
+Prepare: number of updated asset objects reloaded= 0
